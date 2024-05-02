@@ -11,13 +11,12 @@ h4
   font-size: 15px;
   font-family: Verdana;
   color:yellow;
-  text-align: left;
-  background-color: royalblue;  
+  text-align: left; 
 }
 h5
 {
   font-size: 20px;
-  font-family:Helvetica;
+  font-family: Arial;
   text-align: center;
  background-image: url(https://i.pinimg.com/originals/17/2b/8d/172b8dc7c4ba17b98fc15137090dca8e.png);
    background-size:100%
