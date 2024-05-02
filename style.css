@@ -15,8 +15,7 @@ h3
   background-color: royalblue;  
 }
 h4
-{ <style>
-      h1 {
+{ 
       font-size:20;
         font-family: Verdana, Arial, Helvetica, sans-serif;
          color:#333366;
@@ -25,5 +24,5 @@ h4
       /*background-image: url (https://www.mandry.ck.ua/wp-content/uploads/2019/11/MG_9353.jpg);
      background-size: 100%;*/
        }
-    </style>
- }
+    
+
